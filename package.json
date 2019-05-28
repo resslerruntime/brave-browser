@@ -42,10 +42,10 @@
       },
       "brave-core": {
         "dir": "src/brave",
-        "branch": "0.66.x",
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
-        }
+        },
+        "branch": "pr2514_enable_widevine_after_reloading_0.66.x"
       }
     },
     "widevine": {
